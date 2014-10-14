@@ -1,4 +1,4 @@
-/**********************************
+/***********************************
 GENERAL
 ************************************/
 
@@ -96,7 +96,7 @@ PAGE: PORTFOLIO
   margin: 0;
   padding :5% ;
   font-size: 0.75em;
-  color: #bdc3c7
+  color: #fff
 }
 
 /**********************************
@@ -105,19 +105,19 @@ COLORS
 
 /* site body */
 body {
-  background-color: #B1D1CB;
+  background-color: #fff;
   color: #E1FFF5;
 }
 
 /* green header */
 header {
-  background: #B1D1CB;
-  border-color: #B2D3CD;
+  background: #;
+  border-color: #94CAE2;
 }
 
 /* nav background on mobile */
 nav {
-  background: #A8C8C2;
+  background: #A0D6ED;
 }
 
 /* logo text */
@@ -137,5 +137,5 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #5F7F67;
+  color: #318590;
 }
